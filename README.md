@@ -1,2 +1,2 @@
-# prueba-henry
-primer repositorio de prueba
+JOEL CONDOR HUATUCO
+ESTE PRYECTO ES UNA PRUEBA
